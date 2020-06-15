@@ -233,6 +233,7 @@
       "popoverButton": "Actions"
     },
     "VideoThumbnail": {
+      "progressExceedWarning": "Value passed to the video progress should not exceed video length. Resetting progress to 100%.",
       "playButtonA11yLabel": {
         "default": "Play video",
         "defaultWithDuration": "Play video of length {duration}",
